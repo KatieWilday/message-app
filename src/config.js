@@ -1,5 +1,5 @@
 export default {
-  appId: "179924a27f82cf1",
-  apiKey: "c749b9c8dba7ae97586844eead95bee9d0ea6152",
-  GUID: "testgroup", 
+  appId: "	179924a27f82cf1",
+  apiKey: "f635182e2361f876da4f85a5b41c5659f255d760",
+  GUID: "	supergroup",
 };
