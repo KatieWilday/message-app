@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { Route, Redirect, Switch } from "react-router-dom";
 import "./App.css";
-// the below components will be created shortly
 import Login from "./components/Login";
 import Groupchat from "./components/Groupchat";
 class App extends Component {
